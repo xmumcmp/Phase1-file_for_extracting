@@ -1,5 +1,6 @@
 #-*-coding:utf-8-*-
-#管理层语料项目
+#description: 管理层语料项目
+#author：FSOL
 #Python 3.5.2 64-bit
 import os
 class MineError(ValueError):
